@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: virat0410/final-project
+        image: aadi0410/final-project
         ports:
         - containerPort: 80
